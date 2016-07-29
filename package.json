@@ -15,7 +15,6 @@
     "url": "https://github.com/seegno/google-libphonenumber.git"
   },
   "main": "dist/libphonenumber.js",
-  "browser": "dist/browser/libphonenumber.js",
   "keywords": [
     "browserify",
     "e164",
